@@ -28,8 +28,8 @@ const RESOURCES = {
 "assets/assets/images/technology/razorpay.png": "368b761622d88029de7be2aadff6b7d3",
 "assets/assets/images/technology/scenekit.jpeg": "dab8749c82628f14b8e5865b6a852cc3",
 "assets/assets/images/technology/swift.png": "6740f74615e8d2b6558d7d31fc7edb1e",
-"assets/assets/svg/guy.svg": "384b0cd380b8ce087e170fe5b3dc7f6b",
-"assets/assets/svg/person.svg": "00abbb5ba3e0acac159c8a7a664b7750",
+"assets/assets/svg/guy.svg": "414481090f70761090574910bc2afd9d",
+"assets/assets/svg/person.svg": "fc80e79edd4e3d08d528afa1f77f81cc",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "a2a89aee05338919b1f7b462beed6d8d",
@@ -46,9 +46,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "107d00a864c3fb1af05a3f31a76c26a6",
-"/": "107d00a864c3fb1af05a3f31a76c26a6",
-"main.dart.js": "b9bc035716e491bc917458531db28c1b",
+"index.html": "3cb889fc96ecc13230ab15a29fdce148",
+"/": "3cb889fc96ecc13230ab15a29fdce148",
+"main.dart.js": "579b2ab3218789df5d2962fbd72711ce",
 "manifest.json": "d8fe34f7ae4c072a77b924e01dac8a50",
 "version.json": "9b818ca9511483c901bed1545384376c"
 };
